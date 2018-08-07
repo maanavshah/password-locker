@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Password Locker</string>
+    <string name="about_us">"
+        Annoyed of forgetting your access data for hundreds of services, apps and co.?
+
+        Do you want a secure way of saving all your passwords instead of writing them down on a sheet of paper?
+
+        Password Locker is your solution! It stores and manages all entered data in an encrypted way, so you have a secure storage of your access data and you only have to remember your master-password.
+
+        You can trust Password Locker as it does not have any access to the internet. Password Locker uses AES 256-bit encryption to secure your data.
+
+        If you want to use the data, upload it to Dropbox (or similar) and import it from there on another device."</string>
+    <string name="empty_string" />
+    <string name="developer">Maanav Shah</string>
+    <string name="app">Password Locker</string>
+    <string name="import_export">Click on a .db file to import, or go to a folder to export</string>
+    <string name="location">Location</string>
+
+</resources>
